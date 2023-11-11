@@ -1,0 +1,5 @@
+# xeathen定制，国内节点
+DOMAIN-SUFFIX,freeok.vip
+DOMAIN-SUFFIX,cupfox.app
+#spotify直连偶尔会产生卡顿，不能简单粗暴直连，需要定制策略组
+#DOMAIN-KEYWORD,spotify
